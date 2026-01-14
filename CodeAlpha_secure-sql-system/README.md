@@ -9,9 +9,9 @@ Layer 1: Input validation and SQL injection detection
 Layer 2: Parameterized queries + capability code verification
 Lightweight system accessible via Flask web app and MySQL database (XAMPP).
 
-Technologies Used
+Technologies Used:
 Python 3.x
 Flask – lightweight web framework
 MySQL – XAMPP for database
 PyCryptoDome – AES encryption (pip install pycryptodome)
-HTML/CSS – User interface
+HTML/CSS – User interface 
