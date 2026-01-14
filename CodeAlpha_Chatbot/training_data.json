@@ -1,0 +1,14 @@
+{
+  "greetings": {
+    "patterns": ["hi", "hello", "hey"],
+    "responses": ["Hello! How can I help you?", "Hi there!"]
+  },
+  "pricing": {
+    "patterns": ["price", "cost", "fees"],
+    "responses": ["Our pricing depends on the selected service."]
+  },
+  "contact": {
+    "patterns": ["contact", "support", "help"],
+    "responses": ["You can contact support at support@example.com"]
+  }
+}
